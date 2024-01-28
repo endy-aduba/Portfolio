@@ -1,4 +1,4 @@
-const HomePage = () =>{
+const Footer = () =>{
     return (
         <div>
 
@@ -6,4 +6,4 @@ const HomePage = () =>{
     );
 };
 
-export default HomePage;
+export default Footer;

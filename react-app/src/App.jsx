@@ -1,14 +1,10 @@
- 
+import Nav from "./Components/Nav";
 
-function App() {
-
-  return (
-    <>
+const App = () => {
+  return(
     <div className="bg-slate-900">
-    <h2>React App</h2>
+      <Nav></Nav>
     </div>
-    </>
-  )
-}
-
-export default App
+  );
+};
+export default App;
