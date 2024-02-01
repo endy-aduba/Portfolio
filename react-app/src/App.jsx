@@ -15,6 +15,7 @@ const App = () => {
       <Projects/>
       <Contact/>
     </div>
+    
   );
 };
 export default App;

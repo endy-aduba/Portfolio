@@ -58,9 +58,6 @@ const Nav = () =>{
                         <Link spy={true} smooth={true} to = "Contact">
                             <li className="hover:text-red-600 transition boarder-b-2 border-slate-900 hover:border-red-500 cursor-pointer">Contact</li>
                         </Link>
-                        
-                        
-                        
                         </ul>
                     </div>
                 </div>
