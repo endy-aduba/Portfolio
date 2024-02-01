@@ -1,3 +1,9 @@
+/*
+Portfolio for Metrolox
+Nnamdi Aduba
+301343533
+2024-02-01
+*/
 const Contact = () =>{
     return (
         <div id="Contact" className="p-4 lg:p-20 flex flex-col items-center justify-center">

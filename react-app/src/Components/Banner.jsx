@@ -1,3 +1,10 @@
+/*
+Portfolio for Metrolox
+Nnamdi Aduba
+301343533
+2024-02-01
+*/
+
 import {AiFillGithub} from 'react-icons/ai';
 import {FaLinkedinIn} from 'react-icons/fa';
 import { FaYoutube } from "react-icons/fa";

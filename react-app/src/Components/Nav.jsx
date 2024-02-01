@@ -1,3 +1,9 @@
+/*
+Portfolio for Metrolox
+Nnamdi Aduba
+301343533
+2024-02-01
+*/
 import {useState} from "react";
 import { Link } from "react-scroll";
 import {FaTimes} from "react-icons/fa";

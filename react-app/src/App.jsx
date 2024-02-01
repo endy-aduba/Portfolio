@@ -1,3 +1,9 @@
+/*
+Portfolio for Metrolox
+Nnamdi Aduba
+301343533
+2024-02-01
+*/
 import Nav from "./Components/Nav";
 import Banner from "./Components/Banner";
 import AboutMe from "./Components/AboutMe";

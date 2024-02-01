@@ -1,3 +1,9 @@
+/*
+Portfolio for Metrolox
+Nnamdi Aduba
+301343533
+2024-02-01
+*/
 import img1 from '../assets/calc.png'
 import img2 from '../assets/GPACalculator.png'
 import img3 from '../assets/LibraryManagement.png'
