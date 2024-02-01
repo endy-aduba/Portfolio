@@ -8,7 +8,7 @@ const AboutMe = () =>{
             <img src={img} width={290} height={290} data-aos="fade-up" className='border-2 p-1 border-red-500 img_glow' alt='Picture of Fine Boy'/>
             <div data-aos="fade-left" className="h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white">
                 <h1 className="text-[52px] font-semibold mb-8 leading-normal text-red-500" >About Me</h1>
-                <p>Currently rebooting my passion in the tech world, coding not just with skills but with stories to tell. Here in my digital playground, I merge the analytical mindset of a banker with the innovative spirit of a software engineer. I'm all about turning complex problems into elegant solutions, one line of code at a time, while having a blast doing it.</p>
+                <p>Hi there! My name is Nnamdi Anthony Aduba but you can call me Endy. I am Metrolox and Metrolox is me. I'm all about building things that work smoothly and look great, basically <i>Materializing with Finesse</i>. When I'm not coding, you can find me bringing stories to life through animation and video editing. I've got a bunch of cool projects.</p>
                 <div className="flex mt-8 gap-2">
                     <div className="flex items-center justify-center">
                         <div className = "flex space-x-2">

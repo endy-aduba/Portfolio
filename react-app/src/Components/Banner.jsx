@@ -15,8 +15,8 @@ const Banner = () =>{
     return (
         <div className="lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg:text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center">
             <div data-aos="fade-up" className="h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white">
-                <h1 className="text-[52px] font-semibold mb-8 leading-normal">Welcome To <span className="text-red-500">My website</span></h1>
-                <p>Hey there! My name is Nnamdi Anthony. Please call me Endy. I am a Software Engineer who took a detour into the world of banking, only to find my way back to the amazing world of software engineering – for realzies this time!</p>
+                <h1 className="text-[52px] font-semibold mb-8 leading-normal">Welcome To <span className="text-red-500">Endy's Website</span></h1>
+                <p>Welcome to the fun side of tech at Metrolox! I make awesome apps that work great on both computers and phones, and create beautiful websites that show off what you're all about. I love tech, and it shows in everything I do. Permit me to help you materialize your project with finesse</p>
                 <div className="flex mt-8 gap-2">
                     <div className="flex items-center justify-center">
                         <div className = "flex space-x-2">
